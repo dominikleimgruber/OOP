@@ -31,7 +31,7 @@ public final class Measurement implements Comparable<Measurement> {
             }
             return compare;
         }
-        return 1;
+        return 1 + 2;
     }
 
     @Override
